@@ -1,37 +1,33 @@
-# Welcome to Quest01
+# Welcome to Quest02
 ***
-Quest01 is focused on c programming language. It's made up of 20 tasks covering basic syntax in c 
-like the variables, if, while loop, functions, ASCII...
-Solving each of the twenty tasks exposed me to the concepts needed to be learnt in solving the problem.
-The tasks are arranged in other of complexity, from the simplest to the more demanding ones.
-Therefore going through the tasks is a way of moving up the ladder in C programming.
-
+Quest 02 treated pointers in C programming.
+It treated not only the pointers but also  void function and calling them in the main function,
+also the inbuilt libraries for work working faster and smoother in c programming.
 ## Task
-The problem is to solve each task as accurately as possible.
-Each task is a problem to be solved which in turn exposes one to the desired c concepts.
-Hence the challage is learing as you solve each challange.
-So by the time a task is successfully solved, one must have learnt the needed concepts while solvinf the problem.
+To be able to undertand each task  to be solved and also the concepts or syntax that should be employed
+i solving each of the problems. Each of the tasks are uniquely fashioned to address some 
+important aspects of C programming. Thereby facilitating the learning of key concepts
 
 ## Description
-I was able to solve all the 20 tasks by solving a task at a time.
-For each task, instructions are given. so i carefully followed every instruction for eah task.
-The concepts in some of the tasks were entirely new. so i googled to learn more about those concepts 
-before attempting the question. For some i watced videos while those that still give headaches,
-I discussed with my peers, after which my mistakes were clearly pointed out.
-Irrespective of the blockers, i still succeeded in solving the tasks with this methods.
-
+First, i read and understood every given task then figure out the concepts needed to be learnt to 
+solve the tasks. after the concepts are understood, they are read up and then a psudocode is
+generated for clarity which enable easy problem breakdown and solution.
 ## Installation
-No installation was needed here, using quasar terminal. but using visual code to first run my code,
-i had to install gcc compiler, deburgger and G++.
-These enabled my c files to be compiled and run on my local machine.
-With this i could test my code in my local machine before sending it for testing on quasar platform.
+No installation is needed for the solution to be viewed. However, to correctly run the solutions,
+one must have a compiler intalled in their local machine to be able to run the programme.
+Also, aditionally for ease of codding in c, some deburgers can be installed along side for easy debugging.
 
 ## Usage
-These are tasks that needed solutions and not a program that needs directions 
-on how to run. So, each task needs to be solved ad by solving them, one is exposed to
-the needed concepts. So its all about solving tasks. Finding solutions to the problems inherent.
+Just get the correct source code and make sure you have all the necessary instalations made 
+that would support the compilation and running of a c file. Once these are in place, anyone can copy
+the source code and run them on their lacal machine to see the reults of each solution.
+
+
 ### The Core Team
-This project 
+This project was handled by Precious Oranye.
+Precious Oranye is a junior software engineer who is currently undergoing
+an upskilling in software engineering in OGTL. This project is one of the 
+tasks to be solved in the programme
 
 <span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
 <span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>

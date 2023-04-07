@@ -24,9 +24,6 @@ you call in the my_cat file with the C extention and the file will run.
 Once you have the right compiler to run the program,
 you call in the my_cat file with the C extention and the file will run.
 ### The Core Team
-This project is written by Precious Oranye, a software engineering student
-undergoing upskilling at Qwasar. This is one of the tasks needed to be completed 
-to finish the upskilling program at qwasar
+Authored by Precious Oranye
 
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
+

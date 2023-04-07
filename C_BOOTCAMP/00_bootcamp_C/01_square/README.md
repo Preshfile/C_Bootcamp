@@ -62,9 +62,4 @@ This program can be used to print so number of squares depending on the input it
 Give it a set of input and watch it print along side the number of specified columnsand rows.
 
 ### The Core Team
-This project is carried out by Oranye Precious.
-Precious Oranye is a software engineer undergoing training at Qwasar Silicon Valley.
-This project is one of the numerous projects to be completed in the full stack program.
-
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
+Oranye Precious.

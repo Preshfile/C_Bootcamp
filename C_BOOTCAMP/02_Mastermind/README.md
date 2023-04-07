@@ -67,9 +67,6 @@ In some versions of the game, the codebreaker may also have the option to use sp
 There are many variations of the Mastermind game, and the specific rules and gameplay may vary depending on the version you are playing.
 
 ### The Core Team
-The  project was carried out by Precious Oranye -
-a software Engineering student at Qwasar Silicon Valley.
-This project is one of the tasks to be completed to complete C - Bootcamp
+Precious Oranye 
 
-<span><i>Made at <a href='https://qwasar.io'>Qwasar SV -- Software Engineering School</a></i></span>
-<span><img alt='Qwasar SV -- Software Engineering School's Logo' src='https://storage.googleapis.com/qwasar-public/qwasar-logo_50x50.png' width='20px'></span>
+
